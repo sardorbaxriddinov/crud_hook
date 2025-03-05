@@ -1,0 +1,26 @@
+{
+  "books": [
+    {
+      "id": "1",
+      "name": "ReactJS Asoslari",
+      "email": "Shahriyor Dev",
+      "age": 20,
+      "ball": 123,
+      "date": ""
+    },
+    {
+      "id": "57a2",
+      "name": "daftar xoshiyasidagi bitiklar",
+      "email": "O'tkir Hoshimov",
+      "age": "131",
+      "ball": "100"
+    },
+    {
+      "id": "6e93",
+      "name": "Mazag'chini o'ldirish",
+      "email": "Xarper Li",
+      "age": "64",
+      "ball": "100"
+    }
+  ]
+}
